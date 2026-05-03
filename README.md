@@ -104,6 +104,7 @@ SUSTAIN_SERVE/
 ⚙️ Installation & Setup
 1️⃣ Clone Repository
 git clone https://github.com/anjalijaiswal04/SUSTAIN_SERVE.git
+
 2️⃣ Install Dependencies
 Backend
 cd server
@@ -111,6 +112,7 @@ npm install
 Frontend
 cd client
 npm install
+
 3️⃣ Environment Variables
 
 Create .env file inside server folder:
