@@ -1,0 +1,52 @@
+{
+  "expo": {
+    "name": "SustainServe",
+    "slug": "sustain-serve",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "sustain-serve",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1B5E3B"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.sustainserve.app"
+    },
+    "android": {
+      "package": "com.sustainserve.app",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/icon.png",
+        "backgroundColor": "#1B5E3B"
+      }
+    },
+    "web": {
+      "favicon": "./assets/images/icon.png"
+    },
+    "plugins": [
+      [
+        "expo-router",
+        {
+          "origin": "https://replit.com/"
+        }
+      ],
+      "expo-font",
+      "expo-web-browser",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Allow SustainServe to access your photos to add food images.",
+          "cameraPermission": "Allow SustainServe to use your camera to take food photos."
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    }
+  }
+}
