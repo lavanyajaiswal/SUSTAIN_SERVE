@@ -1,157 +1,223 @@
-🌱 SUSTAIN SERVE
-Smart Food Donation & Distribution Platform
+🌱# 🌱 SUSTAIN SERVE
 
-A mobile-first web application designed to reduce food wastage by connecting Donors, NGOs, and Delivery Agents through a role-based system with real-time coordination.
+### AI-Powered Smart Food Donation & Distribution Platform
 
-📱 Project Overview
+SUSTAIN SERVE is a modern food donation and redistribution platform designed to reduce food wastage and improve food accessibility for communities in need.
 
-SUSTAIN SERVE is a sustainable food redistribution platform that enables individuals, restaurants, and organizations to donate surplus food and ensure it reaches people in need efficiently.
+The platform connects **Donors, NGOs, and Delivery Agents** through a centralized system with role-based access, smart coordination, and AI-powered interaction features.
 
-The system provides secure authentication, role-based dashboards, and delivery tracking to create a transparent and organized donation ecosystem.
+Developed as a Final Year B.Tech Computer Science Engineering Project.
 
-This project is developed as a Final Year B.Tech Computer Science Engineering Project.
+---
 
-🎯 Problem Statement
+# 🚀 Live Project
 
-Food wastage and hunger coexist globally.
+🔗 Live Application: https://sustain-serve--jaiswalanjali04.replit.app/
 
-Many donors want to contribute food but face issues like:
+🔗 GitHub Repository:
+https://github.com/anjalijaiswal04/SUSTAIN_SERVE
+https://github.com/lavanyajaiswal/SUSTAIN_SERVE
 
-No centralized platform
-Poor coordination
-Lack of delivery management
-No tracking transparency
+---
 
-SUSTAIN SERVE solves this by digitizing the entire donation workflow.
+# 📌 Problem Statement
 
-🚀 Key Features
-👤 Role-Based Authentication
+Food wastage and hunger continue to exist simultaneously.
 
-Users register based on their role:
+Many individuals, restaurants, and organizations are willing to donate surplus food but face issues such as:
 
-Donor
-NGO
-Delivery Agent
-Admin (hidden/private access)
+* Lack of centralized coordination
+* Poor delivery management
+* No tracking transparency
+* Inefficient communication between stakeholders
 
-Each user sees only their own dashboard after login.
+SUSTAIN SERVE helps solve these problems by digitizing and simplifying the food donation workflow.
 
-🍱 Donor Dashboard
-Publish food donations
-Add food details
-Set pickup location & time
-Track donation status
-View delivery updates
+---
 
-🏢 NGO Dashboard
-View available donations
-Accept donations
-Assign delivery agents
-Manage requests efficiently
+# ✨ Key Features
 
-🚚 Delivery Agent Dashboard
-View assigned deliveries
-Accept tasks
-Update delivery status
-Confirm successful delivery
+## 👤 Role-Based Authentication
 
-🔐 Secure System
-Authentication & Authorization
-Protected Routes
-Role-based Access Control
-Admin credentials hidden from public users
+Users can register and login as:
 
-📱 Mobile-First Design
-Optimized for mobile screens
-Responsive layout
-Smooth navigation experience
-Designed for real-world field usage
+* Donor
+* NGO
+* Delivery Agent
 
-🛠️ Tech Stack
-Frontend
-React.js
-Tailwind CSS
-TypeScript
-JavaScript
-HTML5 & CSS3
-Backend
-Node.js
-Express.js
-Database
-MongoDB
-Authentication
-JWT Authentication
-Role-based authorization
+Each role gets a dedicated dashboard with protected access and personalized functionality.
 
-AI Tools used:
-OpenAI ChatGPT
-Replit.ai
-Copilot
+---
 
-🧠 System Workflow
-User registers as Donor / NGO / Delivery Agent
-Donor publishes food donation
-NGO accepts donation
-NGO assigns delivery agent
-Delivery agent completes delivery
-Status updates reflect across dashboards
+## 🍱 Donation Management
 
-📂 Project Structure
+* Publish food donations
+* Manage food requests
+* Track donation status
+* Coordinate delivery tasks
+* Smart dashboard interaction
+
+---
+
+## 🤖 AI Features
+
+* AI Chatbot Integration
+* AI-based user assistance
+* Smart interaction support
+* Improved user engagement experience
+
+---
+
+## 🔔 Notifications & User Experience
+
+* Notification system
+* Mobile-first responsive UI
+* Smooth navigation
+* Clean and modern interface
+
+---
+
+# 🧠 AI-Assisted Development
+
+This project was developed using AI-assisted coding tools to improve productivity and accelerate development.
+
+## AI Tools Used
+
+* ChatGPT
+* GitHub Copilot
+* OpenAI Codex
+* Replit AI
+
+## AI Usage During Development
+
+These tools helped with:
+
+* code suggestions
+* debugging
+* UI improvements
+* feature implementation
+* workflow optimization
+* faster development process
+
+---
+
+# 🛠️ Tech Stack
+
+## Frontend
+
+* React Native
+* Expo
+* Expo Router
+* TypeScript
+* JavaScript
+
+## Project Architecture
+
+* Context API
+* Hooks-based state management
+* Component-based architecture
+
+## AI Integration
+
+* AI Chatbot Integration
+
+---
+
+# 📂 Project Structure
+
+```bash id="w17s5t"
 SUSTAIN_SERVE/
 │
-├── client/        # React Frontend
-├── server/        # Node + Express Backend
-├── models/        # Database Schemas
-├── routes/        # API Routes
-├── controllers/   # Business Logic
+├── .replit-artifact/
+├── app/
+├── assets/
+│   └── images/
+├── components/
+├── constants/
+├── context/
+├── hooks/
+├── scripts/
+├── server/
+├── utils/
+│
+├── .gitignore
+├── app.json
+├── babel.config.js
+├── metro.config.js
+├── package.json
+├── tsconfig.json
 └── README.md
+```
 
-⚙️ Installation & Setup
-1️⃣ Clone Repository
+---
+
+# 📱 Mobile-First Design
+
+The platform is optimized for:
+
+* mobile responsiveness
+* smooth navigation
+* cross-device compatibility
+* accessibility and usability
+
+---
+
+# ⚙️ Installation & Setup
+
+## 1️⃣ Clone Repository
+
+```bash id="7r6qlm"
 git clone https://github.com/anjalijaiswal04/SUSTAIN_SERVE.git
+```
 
-2️⃣ Install Dependencies
-Backend
-cd server
+---
+
+## 2️⃣ Install Dependencies
+
+```bash id="jlwmv6"
 npm install
-Frontend
-cd client
-npm install
+```
 
-3️⃣ Environment Variables
+---
 
-Create .env file inside server folder:
+## 3️⃣ Start the Application
 
-PORT=5000
-MONGO_URI=your_mongodb_connection
-JWT_SECRET=your_secret_key
-
-4️⃣ Run Application
-Start Backend
-npm run server
-Start Frontend
+```bash id="0s2mxg"
 npm start
+```
 
-💡 Future Enhancements
-AI food demand prediction
-Route optimization for delivery agents
-Real-time notifications
-NGO verification system
-Analytics dashboard
-Mobile App
+---
 
-🎓 Academic Details
+# 💡 Future Enhancements
 
-Project Type: Final Year Major Project
-Domain: Full Stack Web Development
-Category: Social Impact / Sustainability / Smart Logistics
+* AI food demand prediction
+* Smart recommendation system
+* Route optimization
+* Real-time delivery tracking
+* Push notifications
+* Production deployment
 
-👩‍💻 Developed By
+---
 
-Anjali Jaiswal
-Kanishka Kushwaha
-Lavanya Jaiswal- 
-Contribution-build Web app version
-https://sustain-serve--lavanyajais74.replit.app/
+# 👥 Team Members
 
+* Anjali Jaiswal
+* Lavanya Jaiswal - contribution:
+* Built and developed web version of the same
+link- https://sustain-serve--lavanyajais74.replit.app/
+* Kanishka Kushwaha
+
+---
+
+# 🎓 Academic Information
+
+* Final Year Major Project
+* Domain: Mobile Application Development
+* Category: Social Impact & Sustainability
+
+---
+
+# 📜 License
+
+This project is developed for educational , academic purposes, and social help purpose.
 
