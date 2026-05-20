@@ -149,6 +149,7 @@ Category: Social Impact / Sustainability / Smart Logistics
 👩‍💻 Developed By
 
 Anjali Jaiswal
+Kanishka Kushwaha
 Lavanya Jaiswal- 
 Contribution-build Web app version
 https://sustain-serve--lavanyajais74.replit.app/
