@@ -144,6 +144,8 @@ Category: Social Impact / Sustainability / Smart Logistics
 
 Anjali Jaiswal
 Lavanya Jaiswal
-Kanishka Kushwaha
+Contribution-build Web app version
+https://sustain-serve--lavanyajais74.replit.app/
+
 B.Tech CSE 
 
