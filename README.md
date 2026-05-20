@@ -1,4 +1,4 @@
-🌱# 🌱 SUSTAIN SERVE
+🌱 SUSTAIN SERVE
 
 ### AI-Powered Smart Food Donation & Distribution Platform
 
