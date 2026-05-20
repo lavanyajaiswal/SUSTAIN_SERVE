@@ -134,6 +134,7 @@ Real-time notifications
 NGO verification system
 Analytics dashboard
 Mobile App
+
 🎓 Academic Details
 
 Project Type: Final Year Major Project
@@ -143,9 +144,8 @@ Category: Social Impact / Sustainability / Smart Logistics
 👩‍💻 Developed By
 
 Anjali Jaiswal
-Lavanya Jaiswal
+Lavanya Jaiswal- 
 Contribution-build Web app version
 https://sustain-serve--lavanyajais74.replit.app/
 
-B.Tech CSE 
 
