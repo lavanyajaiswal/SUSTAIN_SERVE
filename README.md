@@ -203,8 +203,9 @@ npm start
 
 * Anjali Jaiswal
 * Lavanya Jaiswal - contribution:
-* Built and developed web version of the same
-link- https://sustain-serve--lavanyajais74.replit.app/
+* Built and developed web version of the project.
+  
+link to web-version: https://sustain-serve--lavanyajais74.replit.app/
 * Kanishka Kushwaha
 
 ---
