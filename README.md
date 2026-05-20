@@ -83,6 +83,11 @@ Authentication
 JWT Authentication
 Role-based authorization
 
+AI Tools used:
+OpenAI ChatGPT
+Replit.ai
+Copilot
+
 🧠 System Workflow
 User registers as Donor / NGO / Delivery Agent
 Donor publishes food donation
